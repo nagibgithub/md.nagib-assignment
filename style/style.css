@@ -1,0 +1,155 @@
+.header-text{
+    position: relative;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+.header1{
+    font-family: Work Sans;
+    font-weight: 1000;
+    font-size: 40px;
+    position: absolute;
+    top: 150px;
+    right: 200px;
+}
+.header2{
+    position: absolute;
+    top: 300px;
+    right: 200px;
+}
+.btn1{
+    position: absolute;
+    top: 400px;
+    right: 200px;
+    border-radius: 5px;
+    border: none;
+    width: 160px;
+    height: 64px;
+    font-family: sans-serif;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+}
+.hotas{
+    position: relative;
+    text-align: left;
+    color: black;
+    font-family: sans-serif;
+}
+.hotas-text1{
+    padding: 0px 0px 0px 600px;
+    position: absolute;
+    top: 200px;
+}
+.hotas-text2{
+    padding: 0px 0px 0px 600px;
+    position: absolute;
+    top: 280px;
+}
+.hotas-text3{
+    padding: 0px 0px 0px 600px;
+    position: absolute;
+    top: 380px;
+}
+ul.hotas-text3{
+    list-style: square inside url(/images/mark.svg);
+    
+}
+.my-plan{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    font-size: 40px;
+    color: black;
+}
+
+table, th, td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    font-weight: 400px;
+    border: none;
+    text-align: center;
+}
+
+tr:nth-child(even){
+    font-size: 30px;
+    color: #151414;
+}
+
+tr:nth-child(odd){
+    font-size: 20px;
+    color: #737272;
+}
+#watch-img{
+    position: relative;
+    padding: 50px 50px 50px 50px;
+    
+}
+.watch1{
+    position: absolute;
+    left: 100px;
+}
+.watch2{
+    position: absolute;
+    left: 100px;
+
+}
+.watch-h1{
+    position: relative;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.btn2{
+    position: absolute;
+    top: 250px;
+    left: 150px;
+    border-radius: 5px;
+    border: none;
+    width: 160px;
+    height: 64px;
+    font-family: sans-serif;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+}
+.footer{
+    position: relative;
+    background-color: #151414;
+}
+table.footer-tbl{
+    border: none;
+}
+table tr, td.future{
+    color: white;
+    padding: 50px;
+    text-align: left;
+}
+table tr, td.sub{
+    color: white;
+    padding: 10px 0px 0px 250px;
+    text-align: left;
+}
+.sub-box{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #ffffff;
+    color: white;
+}
+.btn3{
+    top: 400px;
+    right: 200px;
+    border-radius: 5px;
+    border: none;
+    width: 160px;
+    height: 64px;
+    font-family: sans-serif;
+    color: #e4e4e4;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #005FAC;
+}
