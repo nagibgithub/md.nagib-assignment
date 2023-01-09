@@ -52,7 +52,7 @@
     top: 380px;
 }
 ul.hotas-text3{
-    list-style: square inside url(/images/mark.svg);
+    list-style: square inside url(./images/mark.svg);
     
 }
 .my-plan{
